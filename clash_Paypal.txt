@@ -1,3 +1,4 @@
-- "DOMAIN-SUFFIX,paypal.com,Paypal"
-- "DOMAIN-SUFFIX,paypal.me,Paypal"
-- "DOMAIN-SUFFIX,paypalobjects.com,Paypal"
+payload:
+  - DOMAIN-SUFFIX,paypal.com
+  - DOMAIN-SUFFIX,paypal.me
+  - DOMAIN-SUFFIX,paypalobjects.com
