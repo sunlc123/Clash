@@ -14,7 +14,7 @@ payload:
   - DOMAIN-KEYWORD,apple.com.akadns.net
   - DOMAIN-KEYWORD,icloud.com.akadns.net
   - DOMAIN,inappcheck.itunes.apple.com
-  - DOMAIN, xp.apple.com, Apple"
+  - DOMAIN, xp.apple.com
   - DOMAIN-SUFFIX,apple.news
   - DOMAIN-SUFFIX,appsto.re
   - IP-CIDR,17.0.0.0/8
