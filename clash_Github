@@ -1,0 +1,5 @@
+- "DOMAIN-SUFFIX,github.com,Github"
+- "DOMAIN-SUFFIX,github.io,Github"
+- "DOMAIN-SUFFIX,githubusercontent.com,Github"
+- "DOMAIN,github.githubassets.com,Github"
+- "DOMAIN,collector.githubapp.com,Github"
