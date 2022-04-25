@@ -1,26 +1,27 @@
-- "DOMAIN-SUFFIX,aaplimg.com,Apple"
-- "DOMAIN-SUFFIX,apple.com,Apple"
-- "DOMAIN-SUFFIX,apple.com.cn,Apple"
-- "DOMAIN-SUFFIX,apple-cloudkit.com,Apple"
-- "DOMAIN-SUFFIX,appstore.com,Apple"
-- "DOMAIN-SUFFIX,cdn-apple.com,Apple"
-- "DOMAIN-SUFFIX,icloud.com,Apple"
-- "DOMAIN-SUFFIX,icloud.com.cn,Apple"
-- "DOMAIN-SUFFIX,icloud-content.com,Apple"
-- "DOMAIN-SUFFIX,me.com,Apple"
-- "DOMAIN-SUFFIX,mzstatic.com,Apple"
-- "DOMAIN,apple.comscoreresearch.com,Apple"
-- "DOMAIN-KEYWORD,apple.com.akadns.net,Apple"
-- "DOMAIN-KEYWORD,icloud.com.akadns.net,Apple"
-- "DOMAIN,inappcheck.itunes.apple.com,Apple"
-- "DOMAIN, xp.apple.com, Apple"
-- "DOMAIN-SUFFIX,apple.news,Apple"
-- "DOMAIN-SUFFIX,appsto.re,Apple"
-- "IP-CIDR,17.0.0.0/8,Apple"
-- "IP-CIDR,63.92.224.0/19,Apple"
-- "IP-CIDR,65.199.22.0/23,Apple"
-- "IP-CIDR,139.178.128.0/18,Apple"
-- "IP-CIDR,144.178.0.0/19,Apple"
-- "IP-CIDR,192.35.50.0/24,Apple"
-- "IP-CIDR,198.183.17.0/24,Apple"
-- "IP-CIDR,205.180.175.0/24,Apple"
+payload:
+  - DOMAIN-SUFFIX,aaplimg.com
+  - DOMAIN-SUFFIX,apple.com
+  - DOMAIN-SUFFIX,apple.com.cn
+  - DOMAIN-SUFFIX,apple-cloudkit.com
+  - DOMAIN-SUFFIX,appstore.com
+  - DOMAIN-SUFFIX,cdn-apple.com
+  - DOMAIN-SUFFIX,icloud.com
+  - DOMAIN-SUFFIX,icloud.com.cn
+  - DOMAIN-SUFFIX,icloud-content.com
+  - DOMAIN-SUFFIX,me.com
+  - DOMAIN-SUFFIX,mzstatic.com
+  - DOMAIN,apple.comscoreresearch.com
+  - DOMAIN-KEYWORD,apple.com.akadns.net
+  - DOMAIN-KEYWORD,icloud.com.akadns.net
+  - DOMAIN,inappcheck.itunes.apple.com
+  - DOMAIN, xp.apple.com, Apple"
+  - DOMAIN-SUFFIX,apple.news
+  - DOMAIN-SUFFIX,appsto.re
+  - IP-CIDR,17.0.0.0/8
+  - IP-CIDR,63.92.224.0/19
+  - IP-CIDR,65.199.22.0/23
+  - IP-CIDR,139.178.128.0/18
+  - IP-CIDR,144.178.0.0/19
+  - IP-CIDR,192.35.50.0/24
+  - IP-CIDR,198.183.17.0/24
+  - IP-CIDR,205.180.175.0/24
