@@ -1,5 +1,4 @@
 payload:
   - DOMAIN, emby.cjpc.cc
-  - DOMAIN, 134.195.101.38
   - DOMAIN-SUFFIX,jmsooo.com
   - DOMAIN-SUFFIX,play.charontv.com
