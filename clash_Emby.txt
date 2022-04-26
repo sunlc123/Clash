@@ -1,4 +1,4 @@
 payload:
   - DOMAIN, emby.cjpc.cc
   - DOMAIN-SUFFIX,jmsooo.com
-  - DOMAIN-SUFFIX,play.charontv.com
+  - DOMAIN-SUFFIX,play.charontv.c 
