@@ -1,0 +1,10 @@
+payload:
+  - USER-AGENT,Speedtest*
+  - HOST,5g.shunicomtest.com
+  - HOST,cmnet-speed.com
+  - HOST,owa.eastcom-sw.com
+  - HOST,speedtest02.js165.com
+  - HOST-KEYWORD,speedtest
+  - HOST-KEYWORD,speed.misaka.one
+  - HOST,ookla-hidc.hgconair.hgc.com.hk
+  - HOST,hkg-nperf.verizon.net
