@@ -20,4 +20,3 @@ payload:
   - DOMAIN-SUFFIX,telegram.me
   - DOMAIN-SUFFIX,telesco.pe
   - HOST,my.nicegram.app
-  
